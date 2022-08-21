@@ -68,4 +68,7 @@
     <bool name="config_statusBarBurnInProtection">@*android:bool/config_enableBurnInProtection</bool>
     <!-- Interval between subsequent shifting of statusbar and navbar contents, in seconds -->
     <integer name="config_statusBarBurnInProtectionShiftInterval">60</integer>
+
+    <!-- Udfps vendor code -->
+    <integer name="config_udfpsVendorCode">0</integer>
 </resources>
